@@ -45,7 +45,7 @@
     "near-web3-provider": "^1.0.0",
     "near-api-js": "^0.34.0",
     "near-seed-phrase": "^0.1.0",
-    "open": "^7.0.1",
+    "open": "^8.4.0",
     "rimraf": "^3.0.0",
     "stoppable": "^1.1.0",
     "tcp-port-used": "^1.0.1",
