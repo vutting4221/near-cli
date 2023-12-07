@@ -48,7 +48,7 @@
     "open": "^7.0.1",
     "rimraf": "^3.0.0",
     "stoppable": "^1.1.0",
-    "tcp-port-used": "^1.0.1",
+    "tcp-port-used": "^1.0.2",
     "update-notifier": "^5.0.0",
     "uuid": "^8.0.0",
     "v8flags": "^3.1.3",
